@@ -22,7 +22,6 @@
     </section>
     
     <footer>
-        <break>
         <p>&copy; 2024 myhtml.site - Все права защищены.</p>
         <p>Создано Исмат | Телеграм: @isa_zxc | Инстаграм: @isa_zxc | Телефон: +998991501128</p>
     </footer>
